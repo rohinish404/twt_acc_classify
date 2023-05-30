@@ -1,0 +1,7 @@
+numpy==1.24.2
+pandas==1.5.3
+scipy==1.10.1
+snscrape==0.6.2.20230320
+streamlit==1.21.0
+torch==2.0.0
+transformers==4.28.1
